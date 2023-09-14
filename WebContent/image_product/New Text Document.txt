@@ -1,0 +1,10 @@
+image_product/CS00012.jpg
+MaLoai	TenLoai
+COFFE01	Cà phê phin giấy
+COFFE02	Cà phê Rang xay
+COFFE03	Cà phê Phin Giấy
+COFFE04	Cà phê hòa tan
+COFFE05	Cà phê Hạt
+COFFE06	Phin - Cốc
+COFFE07	Cà phê Trung Nguyên cao cấp
+COFFE08	Trà
